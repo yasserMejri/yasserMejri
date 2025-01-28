@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Yasser Mejri] - Full Stack Web Developer
+# 👋 Hi, I’m Yasser Mejri - Full Stack Web Developer
 
 Welcome to my GitHub profile! I’m an expert Full Stack Web Developer with a strong focus on **Node.js frameworks** and modern web technologies. I specialize in building scalable, performant, and user-friendly web applications. My expertise spans across both frontend and backend development, with additional experience in integrating **AI services** like OpenAI to create intelligent and innovative solutions.
 
